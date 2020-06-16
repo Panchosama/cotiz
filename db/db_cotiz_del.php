@@ -2,7 +2,7 @@
 header('Content-Type: application/json');
  
 //Preparamos la conexión con la base de datos
-    $db = new mysqli('localhost', 'sistema', 'sistheli09','helicopters_intra');
+    $db = new mysqli('server', 'usuario', 'pass','db');
  
 //Almacenado de cotización
  
