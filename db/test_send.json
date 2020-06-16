@@ -1,0 +1,29 @@
+{
+	"solicitante":"Martín Adisson",
+	"empresa":"Pirandes Ltda,",
+	"telefono":"+56226342796",
+	"email":"it@discoveryair.cl",
+	"mod":["2"],
+	"trabajo":"Transporte no regular de pasajeros",
+	"descripcion":"El Helos despegará desde SHHE de Machalí el día solicitado para efectuar los traslados de personal conforme a los que el cliente determine, permaneciendo en el lugar asignado hasta el término del contrato, regresando luego a su base. Si el helicóptero pernocta en la VII región, el traslado del personal, su alojamiento y alimentación (2 a 3 personas), en Linares u otra localidad, será de responsabilidad del cliente",
+	"pc":true,
+	"duracion":"1 día",
+	"tiempoVuelo":"2 horas garantizadas",
+	"lugar":"VII Región",
+	"proyecto":"No Aplica",
+	"alojamiento":"Cliente",
+	"base":"Helipuerto SHHE, Machalí",
+	"camion":"si se requiere, con cargo a la empresa",
+	"ferris":"con cargo al cliente, dentro de las horas estipuladas",
+	"valor":{
+		"2":2100
+		},
+	"mon":{
+		"2":"USD"
+		},
+	"iva":{
+		"2":"+ IVA"
+		},
+	"formaPago":"Antes del vuelo transferencia a Cta Cte de DAI Chile por la cantidad de US$ 4200 más IVA (2 horas de vuelo).\nEn caso de volar más de dos horas, la diferencia debe ser cancelada antes de 15 días",
+	"fechaVuelo":null
+}
